@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 
 //! Composer guarda as dependências e dependências transitivas na pasta vendor do projeto
